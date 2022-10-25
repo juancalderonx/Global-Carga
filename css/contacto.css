@@ -134,6 +134,7 @@ footer .row p {
   color: #fff !important;
   text-decoration: none !important;
   border-bottom: 2px solid #fff;
+  font-weight: 600;
 }
 
 .active-footer {

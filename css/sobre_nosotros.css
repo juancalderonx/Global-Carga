@@ -1,28 +1,28 @@
-* p{
+* p {
   color: #4F4F4F;
 }
 
-.title h1{
+.title h1 {
   text-align: center;
   color: #459839;
   font-weight: bold;
 }
 
-.text h1{
+.text h1 {
   font-size: 15px;
 }
 
-.text p{
+.text p {
   font-size: 12px;
 }
 
-.card-info img{
+.card-info img {
   width: 55%;
   background-color: #fff;
   padding: 10px;
 }
 
-.container-after{
+.container-after {
   background-color: #00000014;
   width: 100%;
   height: 15%;
@@ -30,352 +30,352 @@
   position: absolute;
 }
 
-.section h1{
+.section h1 {
   text-align: center;
   color: #82b633;
   font-size: 20px;
 }
 
-.section p{
+.section p {
   font-size: 12px;
   text-align: justify;
 }
 
-.section button{
+.section button {
   background-color: #82b633;
   color: #fff;
   font-size: 12px;
   font-weight: bold;
 }
 
-.section button a{
+.section button a {
   color: #fff;
   text-decoration: none;
 }
 
-.vision h1{
+.vision h1 {
   color: #82b633;
   font-size: 20px;
 }
 
-.vision p{
+.vision p {
   font-size: 12px;
 }
 
-.mision h1{
+.mision h1 {
   color: #82b633;
   font-size: 20px;
 }
 
-.mision p{
+.mision p {
   font-size: 12px;
 }
 
-.contenedor{
+.contenedor {
   text-align: center;
   width: 90%;
   margin: auto;
 }
 
-.contenedor h1{
+.contenedor h1 {
   color: #82b633;
   font-size: 20px;
 }
 
-.contenedor p{
+.contenedor p {
   font-size: 12px;
 }
 
-.valores-info{
+.valores-info {
   background-color: #00000014;
   padding: 15px;
   border-radius: 10px;
   padding-bottom: 5px;
 }
 
-.valores .fa-circle{
+.valores .fa-circle {
   color: #82b633;
   font-size: 15px;
 }
 
-.valores h1{
+.valores h1 {
   color: #459839;
   font-size: 20px;
 }
 
-.valores p{
+.valores p {
   font-size: 12px;
 }
 
-footer .container-fluid{
+footer .container-fluid {
   border-top: 10px solid #82b633;
 }
 
-footer .row p{
+footer .row p {
   font-size: 12px;
 }
 
-.menu-footer{
+.menu-footer {
   list-style: none;
   padding: 0%;
   border-left: 2px solid #82b633;
   padding-left: 20%;
 }
 
-.menu-footer li{
+.menu-footer li {
   margin-bottom: -5px;
 }
 
-.menu-footer li a{
+.menu-footer li a {
   color: #4F4F4F;
   font-weight: 500;
   font-size: 12px;
   text-decoration: none;
 }
 
-.active{
-  color:#82b633 !important;
+.active {
+  color: #82b633 !important;
 }
 
-.contact-way{
+.contact-way {
   order: 3;
   text-align: center;
 }
 
-.fa-phone{
-font-size: 12px;
-margin-right: 2%;
-color: #82b633;
+.fa-phone {
+  font-size: 12px;
+  margin-right: 2%;
+  color: #82b633;
 }
 
-.fa-whatsapp{
+.fa-whatsapp {
   margin-right: 3%;
   font-size: 12px;
   color: #82b633;
 }
 
-.fa-envelope{
+.fa-envelope {
   margin-right: 3%;
   font-size: 12px;
   color: #82b633;
 }
 
-.row span{
+.row span {
   color: #4F4F4F;
   font-size: 12px;
 }
 
-.row a{
+.row a {
   font-size: 12px;
   color: #4F4F4F;
   text-decoration: none;
 }
 
-.background{
+.background {
   padding-top: 2%;
 }
 
-@media screen and (min-width:576px) and (max-width:768px){
-  #info1{
+@media screen and (min-width:576px) and (max-width:768px) {
+  #info1 {
     width: 40%;
   }
 
-  #info2{
+  #info2 {
     width: 40%;
   }
 
-  .text h1{
+  .text h1 {
     font-size: 15px;
   }
-  
-  .text p{
+
+  .text p {
     font-size: 12px;
   }
-  
-  .card-info img{
+
+  .card-info img {
     width: 55%;
     background-color: #fff;
     padding: 10px;
     margin-bottom: 3%;
     margin-top: 2%;
   }
-  
-  .container-after{
+
+  .container-after {
     height: 20%;
   }
-  
-  .section h1{
+
+  .section h1 {
     text-align: center;
     color: #82b633;
     font-size: 25px;
   }
-  
-  .section p{
+
+  .section p {
     font-size: 15px;
     text-align: justify;
   }
-  
-  .section button{
+
+  .section button {
     background-color: #82b633;
     color: #fff;
     font-size: 15px;
     font-weight: bold;
   }
-  
-  .section button a{
+
+  .section button a {
     color: #fff;
     text-decoration: none;
   }
 
-  .vision h1{
+  .vision h1 {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .vision p{
+
+  .vision p {
     font-size: 15px;
   }
-  
-  .mision h1{
+
+  .mision h1 {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .mision p{
+
+  .mision p {
     font-size: 15px;
   }
-  
-  .contenedor{
+
+  .contenedor {
     text-align: center;
     width: 90%;
     margin: auto;
   }
-  
-  .contenedor h1{
+
+  .contenedor h1 {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .contenedor p{
+
+  .contenedor p {
     font-size: 15px;
   }
-  
-  .valores-info{
+
+  .valores-info {
     background-color: #00000014;
     padding: 15px;
     border-radius: 10px;
     padding-bottom: 5px;
   }
-  
-  .valores .fa-circle{
+
+  .valores .fa-circle {
     color: #82b633;
     font-size: 15px;
   }
-  
-  .valores h1{
+
+  .valores h1 {
     color: #459839;
     font-size: 25px;
   }
-  
-  .valores p{
+
+  .valores p {
     font-size: 15px;
   }
 
-  footer .container-fluid{
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 15px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 15px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 3;
     text-align: center;
     display: flex;
     flex-direction: row;
     justify-content: center;
   }
-  
-  .fa-phone{
-  font-size: 15px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 15px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 15px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 15px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }
 
-@media screen and (min-width:768px) and (max-width:992px){
-  #info1{
+@media screen and (min-width:768px) and (max-width:992px) {
+  #info1 {
     order: 2;
     width: 30%;
   }
 
-  #info2{
+  #info2 {
     width: 30%;
   }
 
-  .text h1{
+  .text h1 {
     font-size: 25px;
   }
-  
-  .card-info img{
+
+  .card-info img {
     width: 55%;
     background-color: #fff;
     padding: 10px;
     margin-bottom: 3%;
     margin-top: 2%;
   }
-  
-  .container-after{
+
+  .container-after {
     width: 95%;
     height: 25%;
     border-bottom-left-radius: 150px;
@@ -384,181 +384,181 @@ color: #82b633;
     border-bottom-right-radius: 50px;
   }
 
-  .section{
+  .section {
     align-self: center;
   }
-  
-  .section h1{
+
+  .section h1 {
     text-align: left;
     color: #82b633;
     font-size: 25px;
   }
-  
-  .section p{
+
+  .section p {
     margin-top: 5%;
     width: 95%;
     font-size: 15px;
   }
-  
-  .section button{
+
+  .section button {
     background-color: #82b633;
     color: #fff;
     font-size: 15px;
     font-weight: bold;
   }
-  
-  .section button a{
+
+  .section button a {
     color: #fff;
     text-decoration: none;
   }
 
-  .vision h1{
+  .vision h1 {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .vision p{
+
+  .vision p {
     font-size: 15px;
   }
-  
-  .mision h1{
+
+  .mision h1 {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .mision p{
+
+  .mision p {
     font-size: 15px;
   }
-  
-  .contenedor{
+
+  .contenedor {
     text-align: center;
     width: 70%;
     margin: auto;
   }
-  
-  .contenedor h1{
+
+  .contenedor h1 {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .contenedor p{
+
+  .contenedor p {
     font-size: 15px;
   }
-  
-  .valores-info{
+
+  .valores-info {
     background-color: #00000014;
     padding: 15px;
     border-radius: 10px;
     padding-bottom: 5px;
   }
-  
-  .valores .fa-circle{
+
+  .valores .fa-circle {
     color: #82b633;
     font-size: 20px;
   }
-  
-  .valores h1{
+
+  .valores h1 {
     color: #459839;
     font-size: 25px;
   }
-  
-  .valores p{
+
+  .valores p {
     font-size: 15px;
   }
 
-  footer .container-fluid{
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 15px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 15px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
     flex-direction: column;
   }
-  
-  .fa-phone{
-  font-size: 15px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 15px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 15px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 15px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }
 
-@media screen and (min-width:992px) and (max-width:1200px){
-  #info1{
+@media screen and (min-width:992px) and (max-width:1200px) {
+  #info1 {
     order: 2;
     width: 30%;
   }
 
-  #info2{
+  #info2 {
     width: 30%;
   }
 
-  .text h1{
+  .text h1 {
     font-size: 30px;
   }
-  
-  .card-info img{
+
+  .card-info img {
     width: 55%;
     background-color: #fff;
     padding: 10px;
     margin-bottom: 3%;
     margin-top: 2%;
   }
-  
-  .container-after{
+
+  .container-after {
     width: 95%;
     height: 30%;
     border-bottom-left-radius: 150px;
@@ -567,180 +567,191 @@ color: #82b633;
     border-bottom-right-radius: 50px;
   }
 
-  .section{
+  .section {
     align-self: center;
   }
-  
-  .section h1{
+
+  .section h1 {
     text-align: left;
     color: #82b633;
     font-size: 30px;
   }
-  
-  .section p{
+
+  .section p {
     margin-top: 5%;
     width: 95%;
     font-size: 20px;
   }
-  
-  .section button{
+
+  .section button {
     background-color: #82b633;
     color: #fff;
     font-size: 20px;
     font-weight: bold;
   }
-  
-  .section button a{
+
+  .section button a {
     color: #fff;
     text-decoration: none;
   }
 
-  .vision h1{
+  .vision h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .vision p{
+
+  .vision p {
     font-size: 20px;
   }
-  
-  .mision h1{
+
+  .mision h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .mision p{
+
+  .mision p {
     font-size: 20px;
   }
-  
-  .contenedor{
+
+  .contenedor {
     text-align: center;
     width: 70%;
     margin: auto;
   }
-  
-  .contenedor h1{
+
+  .contenedor h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .contenedor p{
+
+  .contenedor p {
     font-size: 20px;
   }
-  
-  .valores-info{
+
+  .valores-info {
     background-color: #00000014;
     padding: 15px;
     border-radius: 10px;
     padding-bottom: 5px;
   }
-  
-  .valores .fa-circle{
+
+  .valores .fa-circle {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .valores h1{
+
+  .valores h1 {
     color: #459839;
     font-size: 30px;
   }
-  
-  .valores p{
+
+  .valores p {
     font-size: 20px;
   }
-  
-  footer .container-fluid{
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 20px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 20px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
   }
-  
-  .fa-phone{
-  font-size: 20px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 20px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 20px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 20px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }
 
-@media screen and (min-width:1200px) and (max-width:1400px){
-  #info1{
+#realNavbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#searchNavBar {
+  margin-left: 2vw;
+}
+
+@media screen and (min-width:1200px) and (max-width:1400px) {
+  #info1 {
     order: 2;
     width: 30%;
   }
 
-  #info2{
+  #info2 {
     width: 30%;
   }
 
-  .text h1{
+  .text h1 {
     font-size: 30px;
   }
-  
-  .card-info img{
+
+  .card-info img {
     width: 55%;
     background-color: #fff;
     padding: 10px;
     margin-bottom: 3%;
     margin-top: 2%;
   }
-  
-  .container-after{
+
+  .container-after {
     width: 95%;
     height: 35%;
     border-bottom-left-radius: 150px;
@@ -749,179 +760,179 @@ color: #82b633;
     border-bottom-right-radius: 50px;
   }
 
-  .section{
+  .section {
     align-self: center;
   }
-  
-  .section h1{
+
+  .section h1 {
     text-align: left;
     color: #82b633;
     font-size: 30px;
   }
-  
-  .section p{
+
+  .section p {
     margin-top: 5%;
     width: 95%;
     font-size: 20px;
   }
-  
-  .section button{
+
+  .section button {
     background-color: #82b633;
     color: #fff;
     font-size: 20px;
     font-weight: bold;
   }
-  
-  .section button a{
+
+  .section button a {
     color: #fff;
     text-decoration: none;
   }
 
-  .vision h1{
+  .vision h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .vision p{
+
+  .vision p {
     font-size: 20px;
   }
-  
-  .mision h1{
+
+  .mision h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .mision p{
+
+  .mision p {
     font-size: 20px;
   }
-  
-  .contenedor{
+
+  .contenedor {
     text-align: center;
     width: 70%;
     margin: auto;
   }
-  
-  .contenedor h1{
+
+  .contenedor h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .contenedor p{
+
+  .contenedor p {
     font-size: 20px;
   }
-  
-  .valores-info{
+
+  .valores-info {
     background-color: #00000014;
     padding: 15px;
     border-radius: 10px;
     padding-bottom: 5px;
   }
-  
-  .valores .fa-circle{
+
+  .valores .fa-circle {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .valores h1{
+
+  .valores h1 {
     color: #459839;
     font-size: 30px;
   }
-  
-  .valores p{
+
+  .valores p {
     font-size: 20px;
   }
-  
-  footer .container-fluid{
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 20px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 20px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
   }
-  
-  .fa-phone{
-  font-size: 20px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 20px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 20px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 20px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
-  
+
 }
 
-@media screen and (min-width:1400px){
-  #info1{
+@media screen and (min-width:1400px) {
+  #info1 {
     order: 2;
     width: 25%;
   }
 
-  #info2{
+  #info2 {
     width: 25%;
   }
 
-  .text h1{
+  .text h1 {
     font-size: 30px;
   }
-  
-  .card-info img{
+
+  .card-info img {
     width: 25%;
     background-color: #fff;
     padding: 10px;
   }
-  
-  .container-after{
+
+  .container-after {
     width: 85%;
     height: 35%;
     border-bottom-left-radius: 150px;
@@ -930,161 +941,161 @@ color: #82b633;
     border-bottom-right-radius: 50px;
   }
 
-  .section{
+  .section {
     align-self: center;
   }
-  
-  .section h1{
+
+  .section h1 {
     text-align: left;
     color: #82b633;
     font-size: 30px;
   }
-  
-  .section p{
+
+  .section p {
     margin-top: 5%;
     width: 95%;
     font-size: 25px;
   }
-  
-  .section button{
+
+  .section button {
     background-color: #82b633;
     color: #fff;
     font-size: 25px;
     font-weight: bold;
   }
 
-  .section button:hover{
+  .section button:hover {
     background-color: #82b633;
     color: #fff;
     font-size: 25px;
     font-weight: bold;
   }
-  
-  .section button a{
+
+  .section button a {
     color: #fff;
     text-decoration: none;
   }
 
-  .vision h1{
+  .vision h1 {
     color: #82b633;
     font-size: 35px;
   }
-  
-  .vision p{
+
+  .vision p {
     font-size: 25px;
   }
-  
-  .mision h1{
+
+  .mision h1 {
     color: #82b633;
     font-size: 35px;
   }
-  
-  .mision p{
+
+  .mision p {
     font-size: 25px;
   }
-  
-  .contenedor{
+
+  .contenedor {
     text-align: center;
     width: 70%;
     margin: auto;
   }
-  
-  .contenedor h1{
+
+  .contenedor h1 {
     color: #82b633;
     font-size: 35px;
   }
-  
-  .contenedor p{
+
+  .contenedor p {
     font-size: 25px;
   }
-  
-  .valores-info{
+
+  .valores-info {
     background-color: #00000014;
     padding: 15px;
     border-radius: 10px;
     padding-bottom: 5px;
   }
-  
-  .valores .fa-circle{
+
+  .valores .fa-circle {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .valores h1{
+
+  .valores h1 {
     color: #459839;
     font-size: 35px;
   }
-  
-  .valores p{
+
+  .valores p {
     font-size: 25px;
   }
-  
-  
-  footer .container-fluid{
+
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 25px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 25px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
   }
-  
-  .fa-phone{
-  font-size: 25px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 25px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 25px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 25px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 25px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 25px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }

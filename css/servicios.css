@@ -1,721 +1,733 @@
-* p{
+* p {
   color: #4F4F4F;
 }
 
-.title{
+.title {
   text-align: center;
 }
 
-.title h1{
+.title h1 {
   color: #459839;
   font-weight: bold;
 }
 
-.card-info img{
+.card-info img {
   width: 60%;
   padding: 10px;
 }
 
-.info{
+.info {
   margin-top: 5%;
 }
 
-.section h1{
+.section h1 {
   color: #82b633;
   text-align: center;
   font-size: 15px;
 }
 
-.section p{
+.section p {
   color: #4F4F4F;
   text-align: justify;
   font-size: 12px;
 }
 
-.title2{
+.title2 {
   text-align: center;
 }
 
-.title2 h1{
+.title2 h1 {
   color: #82b633;
 }
 
-.card-text h1{
+.card-text h1 {
   margin-bottom: 0rem;
   margin-top: 0.2rem;
   font-size: 15px;
 }
 
-.card-text p{
+.card-text p {
   font-size: 12px;
 }
 
-footer .container-fluid{
+footer .container-fluid {
   border-top: 10px solid #82b633;
 }
 
-footer .container-fluid .row{
+footer .container-fluid .row {
   justify-content: center;
-    align-items: center;
+  align-items: center;
 }
 
-footer .logo{
+footer .logo {
   text-align: center;
 }
 
-footer .row p{
+footer .row p {
   font-size: 12px;
 }
 
-.menu-footer{
+.menu-footer {
   list-style: none;
   padding: 0%;
   border-left: 2px solid #82b633;
   padding-left: 20%;
 }
 
-.menu-footer li{
+.menu-footer li {
   margin-bottom: -5px;
 }
 
-.menu-footer li a{
+.menu-footer li a {
   color: #4F4F4F;
   font-weight: 500;
   font-size: 12px;
   text-decoration: none;
 }
 
-.active{
-  color:#82b633 !important;
+.active {
+  color: #82b633 !important;
 }
 
-.info-social{
+.info-social {
   text-align: center;
 }
 
-.info-social p{
+.info-social p {
   color: #4F4F4F;
   margin-bottom: 0.4rem;
 }
 
-.info-social p a{
+.info-social p a {
   text-decoration: none;
   color: #4F4F4F;
 }
 
-.fa-phone{
-color: #82b633;
-}
-
-.fa-whatsapp{
-color: #82b633;
-}
-
-.fa-envelope{
+.fa-phone {
   color: #82b633;
 }
 
-@media screen and (min-width:576px) and (max-width:768px){  
-  .card-info img{
+.fa-whatsapp {
+  color: #82b633;
+}
+
+.fa-envelope {
+  color: #82b633;
+}
+
+#realNavbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#searchNavBar {
+  margin-left: 2vw;
+}
+
+
+@media screen and (min-width:576px) and (max-width:768px) {
+  .card-info img {
     width: 55%;
   }
 
-  .info{
+  .info {
     margin-top: 5%;
   }
-  
-  .section h1{
+
+  .section h1 {
     color: #82b633;
     text-align: center;
     font-size: 20px;
   }
-  
-  .section p{
+
+  .section p {
     color: #4F4F4F;
     text-align: justify;
     font-size: 15px;
   }
-  
-  .title2{
+
+  .title2 {
     text-align: center;
   }
-  
-  .title2 h1{
+
+  .title2 h1 {
     color: #82b633;
   }
 
-  .card-text .row .col-sm-1{
+  .card-text .row .col-sm-1 {
     width: 5%;
   }
-  
-  .card-text h1{
+
+  .card-text h1 {
     margin-bottom: 0rem;
     margin-top: 0rem;
     font-size: 20px;
   }
-  
-  .card-text p{
+
+  .card-text p {
     font-size: 15px;
     color: #4F4F4F;
     font-weight: 400;
   }
-  
 
-  footer .container-fluid{
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 15px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 15px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 3;
     text-align: center;
     display: flex;
     flex-direction: row;
     justify-content: center;
   }
-  
-  .fa-phone{
-  font-size: 15px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 15px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 15px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 15px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }
 
-@media screen and (min-width:768px) and (max-width:992px){
-  .card-info img{
+@media screen and (min-width:768px) and (max-width:992px) {
+  .card-info img {
     width: 40%;
     order: 2;
   }
 
-  .section{
+  .section {
     width: 60%;
   }
 
-  .section h1{
+  .section h1 {
     color: #82b633;
     text-align: left;
     font-size: 25px;
   }
-  
-  .section p{
+
+  .section p {
     color: #4F4F4F;
     text-align: left;
     font-size: 15px;
   }
 
-  .info{
+  .info {
     margin-top: 5%;
   }
-  
-  .title2{
+
+  .title2 {
     text-align: center;
   }
-  
-  .title2 h1{
+
+  .title2 h1 {
     color: #82b633;
   }
 
-  .card-text .row .col-md-1{
+  .card-text .row .col-md-1 {
     width: 5%;
   }
-  
-  .card-text h1{
+
+  .card-text h1 {
     margin-bottom: 0rem;
     margin-top: 0rem;
     font-size: 25px;
   }
-  
-  .card-text p{
+
+  .card-text p {
     font-size: 15px;
     color: #4F4F4F;
     font-weight: 400;
   }
-  
 
-  footer .container-fluid{
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 15px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 15px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
     flex-direction: column;
   }
-  
-  .fa-phone{
-  font-size: 15px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 15px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 15px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 15px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }
 
-@media screen and (min-width:992px) and (max-width:1200px){
-  .card-info img{
+@media screen and (min-width:992px) and (max-width:1200px) {
+  .card-info img {
     width: 40%;
     order: 2;
   }
 
-  .section{
+  .section {
     width: 60%;
   }
 
-  .section h1{
+  .section h1 {
     color: #82b633;
     text-align: left;
     font-size: 30px;
   }
-  
-  .section p{
+
+  .section p {
     color: #4F4F4F;
     text-align: left;
     font-size: 20px;
   }
 
-  .info{
+  .info {
     margin-top: 5%;
   }
-  
-  .title2{
+
+  .title2 {
     text-align: center;
   }
-  
-  .title2 h1{
+
+  .title2 h1 {
     color: #82b633;
   }
 
-  .card-text .row .col-md-1{
+  .card-text .row .col-md-1 {
     width: 5%;
   }
-  
-  .card-text h1{
+
+  .card-text h1 {
     margin-bottom: 0rem;
     margin-top: 0rem;
     font-size: 30px;
   }
-  
-  .card-text p{
+
+  .card-text p {
     font-size: 20px;
     color: #4F4F4F;
     font-weight: 400;
     text-align: justify;
   }
-  
-  footer .container-fluid{
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 20px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 20px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
   }
-  
-  .fa-phone{
-  font-size: 20px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 20px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 20px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 20px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 
 }
 
-@media screen and (min-width:1200px) and (max-width:1400px){
-  .card-info img{
+@media screen and (min-width:1200px) and (max-width:1400px) {
+  .card-info img {
     width: 30%;
     order: 2;
   }
 
-  .section{
+  .section {
     width: 60%;
   }
 
-  .section h1{
+  .section h1 {
     color: #82b633;
     text-align: left;
     font-size: 30px;
   }
-  
-  .section p{
+
+  .section p {
     color: #4F4F4F;
     text-align: left;
     font-size: 20px;
   }
 
-  .info{
+  .info {
     margin-top: 5%;
   }
-  
-  .title2{
+
+  .title2 {
     text-align: center;
   }
-  
-  .title2 h1{
+
+  .title2 h1 {
     color: #82b633;
   }
 
-  .card-text .row .col-md-1{
+  .card-text .row .col-md-1 {
     width: 5%;
   }
-  
-  .card-text h1{
+
+  .card-text h1 {
     margin-bottom: 0rem;
     margin-top: 0rem;
     font-size: 30px;
   }
-  
-  .card-text p{
+
+  .card-text p {
     font-size: 20px;
     color: #4F4F4F;
     font-weight: 400;
     text-align: justify;
   }
-  
-  
-  footer .container-fluid{
+
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 20px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 20px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
   }
-  
-  .fa-phone{
-  font-size: 20px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 20px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 20px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 20px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
-  
+
 
 }
 
-@media screen and (min-width:1400px){
-  .card-info img{
+@media screen and (min-width:1400px) {
+  .card-info img {
     width: 30%;
     order: 2;
   }
 
-  .section{
+  .section {
     width: 60%;
   }
 
-  .section h1{
+  .section h1 {
     color: #82b633;
     text-align: left;
     font-size: 35px;
   }
-  
-  .section p{
+
+  .section p {
     color: #4F4F4F;
     text-align: left;
     font-size: 25px;
   }
 
-  .info{
+  .info {
     margin-top: 5%;
   }
-  
-  .title2{
+
+  .title2 {
     text-align: center;
   }
-  
-  .title2 h1{
+
+  .title2 h1 {
     color: #82b633;
   }
 
-  .card-text .row .col-md-1{
+  .card-text .row .col-md-1 {
     width: 5%;
   }
-  
-  .card-text h1{
+
+  .card-text h1 {
     margin-bottom: 0rem;
     margin-top: 0rem;
     font-size: 30px;
     font-weight: bold;
   }
-  
-  .card-text p{
+
+  .card-text p {
     font-size: 25px;
     color: #4F4F4F;
     font-weight: 400;
     text-align: justify;
   }
-  
-  
-  footer .container-fluid{
+
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 25px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 25px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
   }
-  
-  .fa-phone{
-  font-size: 25px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 25px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 25px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 25px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 25px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 25px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }

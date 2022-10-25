@@ -1,25 +1,25 @@
-* p{
+* p {
   color: #4F4F4F;
 }
 
-* h2{
+* h2 {
   color: #4F4F4F;
 }
 
-.container .row p{
+.container .row p {
   font-size: 12px;
   color: #4F4F4F;
 }
 
-.frm h2{
+.frm h2 {
   font-size: 20px;
 }
 
-form .form-control{
+form .form-control {
   font-size: 12px;
 }
 
-form .btn{
+form .btn {
   font-size: 12px;
 }
 
@@ -27,11 +27,11 @@ form .btn{
   background-color: #fff !important;
 }
 
-.call-service{
-text-align: center;
+.call-service {
+  text-align: center;
 }
 
-.call-service .btn{
+.call-service .btn {
   background-color: #82b633;
   color: #fff;
   font-size: 10px;
@@ -39,993 +39,1004 @@ text-align: center;
   text-transform: uppercase;
 }
 
-.call-service .fa-user{
-font-size: 40px;
-color: #82b633;
+.call-service .fa-user {
+  font-size: 40px;
+  color: #82b633;
 }
 
-.call-service img{
+.call-service img {
   width: 60%;
 }
 
-.call-service .service{
+.call-service .service {
   color: #82b633;
   font-size: 12px;
 }
 
-.oficine-title .row{
+.oficine-title .row {
   text-align: center;
 }
 
-.oficine-title .fa-location-dot{
+.oficine-title .fa-location-dot {
   font-size: 30px;
   color: #459839;
-  padding-bottom:2px; 
+  padding-bottom: 2px;
   border-bottom: 2px solid #459839;
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
 
-.oficine-title h1{
+.oficine-title h1 {
   color: #82b633;
   text-transform: uppercase;
 }
 
-.principal-office h1{
+.principal-office h1 {
   color: #82b633;
 }
 
-.principal-office h2{
+.principal-office h2 {
   font-size: 20px;
 }
 
-.center-office h1{
+.center-office h1 {
   color: #82b633;
 }
 
-.center-office h2{
+.center-office h2 {
   font-size: 20px;
 }
 
-.bogota-office h1{
+.bogota-office h1 {
   color: #82b633;
 }
 
-.bogota-office h2{
+.bogota-office h2 {
   font-size: 20px;
 }
 
-footer .container-fluid{
+footer .container-fluid {
   border-top: 10px solid #82b633;
 }
 
-footer .container-fluid .row{
+footer .container-fluid .row {
   justify-content: center;
-    align-items: center;
+  align-items: center;
 }
 
-footer .logo{
+footer .logo {
   text-align: center;
 }
 
-footer .row p{
+footer .row p {
   font-size: 12px;
 }
 
-.menu-footer{
+.menu-footer {
   list-style: none;
   padding: 0%;
   border-left: 2px solid #82b633;
   padding-left: 20%;
 }
 
-.menu-footer li{
+.menu-footer li {
   margin-bottom: -5px;
 }
 
-.menu-footer li a{
+.menu-footer li a {
   color: #4F4F4F;
   font-weight: 500;
   font-size: 12px;
   text-decoration: none;
 }
 
-.active{
-  color:#82b633 !important;
+.active {
+  color: #82b633 !important;
 }
 
-.info-social{
+.info-social {
   text-align: center;
 }
 
-.info-social p{
+.info-social p {
   color: #4F4F4F;
   margin-bottom: 0.4rem;
 }
 
-.info-social p a{
+.info-social p a {
   text-decoration: none;
   color: #4F4F4F;
 }
 
-.fa-phone{
-color: #82b633;
-}
-
-.fa-whatsapp{
-color: #82b633;
-}
-
-.fa-envelope{
+.fa-phone {
   color: #82b633;
 }
 
-@media screen and (min-width:576px) and (max-width:768px){  
-  .container .row p{
+.fa-whatsapp {
+  color: #82b633;
+}
+
+.fa-envelope {
+  color: #82b633;
+}
+
+#realNavbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#searchNavBar {
+  margin-left: 2vw;
+}
+
+@media screen and (min-width:576px) and (max-width:768px) {
+  .container .row p {
     font-size: 15px;
     color: #4F4F4F;
   }
-  
-  .frm h2{
+
+  .frm h2 {
     font-size: 25px;
   }
-  
-  form .form-control{
+
+  form .form-control {
     font-size: 15px;
   }
-  
-  form .btn{
+
+  form .btn {
     font-size: 15px;
   }
-  
+
   .form-control {
     background-color: #fff !important;
   }
-  
-  .call-service{
-  text-align: center;
+
+  .call-service {
+    text-align: center;
   }
-  
-  .call-service .btn{
+
+  .call-service .btn {
     background-color: #82b633;
     color: #fff;
     font-size: 17px;
     font-weight: 600;
     text-transform: uppercase;
   }
-  
-  .call-service .fa-user{
-  font-size: 50px;
-  color: #82b633;
+
+  .call-service .fa-user {
+    font-size: 50px;
+    color: #82b633;
   }
-  
-  .call-service img{
+
+  .call-service img {
     width: 40%;
   }
-  
-  .call-service .service{
+
+  .call-service .service {
     color: #82b633;
     font-size: 20px;
   }
 
-  .service .fa-whatsapp{
+  .service .fa-whatsapp {
     color: #82b633;
     font-size: 25px;
   }
-  
-  .oficine-title .row{
+
+  .oficine-title .row {
     text-align: center;
   }
-  
-  .oficine-title .fa-location-dot{
+
+  .oficine-title .fa-location-dot {
     font-size: 40px;
     color: #459839;
-    padding-bottom:2px; 
+    padding-bottom: 2px;
     border-bottom: 2px solid #459839;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
   }
-  
-  .oficine-title h1{
+
+  .oficine-title h1 {
     color: #82b633;
     text-transform: uppercase;
   }
-  
-  .principal-office h1{
-    color: #82b633;
-  }
-  
-  .principal-office h2{
-    font-size: 20px;
-  }
-  
-  .center-office h1{
-    color: #82b633;
-  }
-  
-  .center-office h2{
-    font-size: 20px;
-  }
-  
-  .bogota-office h1{
-    color: #82b633;
-  }
-  
-  .bogota-office h2{
-    font-size: 20px;
-  }
-  
 
-  footer .container-fluid{
+  .principal-office h1 {
+    color: #82b633;
+  }
+
+  .principal-office h2 {
+    font-size: 20px;
+  }
+
+  .center-office h1 {
+    color: #82b633;
+  }
+
+  .center-office h2 {
+    font-size: 20px;
+  }
+
+  .bogota-office h1 {
+    color: #82b633;
+  }
+
+  .bogota-office h2 {
+    font-size: 20px;
+  }
+
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 15px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 15px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 3;
     text-align: center;
     display: flex;
     flex-direction: row;
     justify-content: center;
   }
-  
-  .fa-phone{
-  font-size: 15px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 15px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 15px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 15px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }
 
-@media screen and (min-width:768px) and (max-width:992px){
-  .container .row p{
+@media screen and (min-width:768px) and (max-width:992px) {
+  .container .row p {
     font-size: 15px;
     color: #4F4F4F;
   }
-  
-  .frm h2{
+
+  .frm h2 {
     font-size: 25px;
   }
-  
-  form .form-control{
+
+  form .form-control {
     font-size: 15px;
   }
-  
-  form .btn{
+
+  form .btn {
     font-size: 15px;
   }
-  
+
   .form-control {
     background-color: #fff !important;
   }
-  
-  .call-service{
-  text-align: left;
+
+  .call-service {
+    text-align: left;
   }
-  
-  .call-service .btn{
+
+  .call-service .btn {
     background-color: #82b633;
     color: #fff;
     font-size: 15px;
     font-weight: 600;
     text-transform: uppercase;
   }
-  
-  .call-service .fa-user{
-  font-size: 60px;
-  color: #82b633;
+
+  .call-service .fa-user {
+    font-size: 60px;
+    color: #82b633;
   }
-  
-  .call-service img{
+
+  .call-service img {
     width: 10%;
   }
-  
-  .call-service .service{
+
+  .call-service .service {
     color: #82b633;
     font-size: 15px;
   }
 
-  .service .fa-whatsapp{
+  .service .fa-whatsapp {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .oficine-title .row{
+
+  .oficine-title .row {
     text-align: center;
   }
-  
-  .oficine-title .fa-location-dot{
+
+  .oficine-title .fa-location-dot {
     font-size: 40px;
     color: #459839;
-    padding-bottom:2px; 
+    padding-bottom: 2px;
     border-bottom: 2px solid #459839;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
   }
-  
-  .oficine-title h1{
+
+  .oficine-title h1 {
     color: #82b633;
     text-transform: uppercase;
   }
 
-  .text{    
+  .text {
     align-self: center;
     order: 2;
   }
 
-  .text2{
+  .text2 {
     align-self: center;
     order: 2;
   }
 
-  .text3{
+  .text3 {
     align-self: center;
     order: 2;
   }
-  
-  .principal-office h1{
+
+  .principal-office h1 {
     font-size: 25px;
     color: #82b633;
   }
-  
-  .principal-office h2{
+
+  .principal-office h2 {
     font-size: 15px;
   }
-  
-  .center-office h1{
+
+  .center-office h1 {
     font-size: 25px;
     color: #82b633;
   }
-  
-  .center-office h2{
+
+  .center-office h2 {
     font-size: 15px;
   }
-  
-  .bogota-office h1{
+
+  .bogota-office h1 {
     font-size: 25px;
     color: #82b633;
   }
-  
-  .bogota-office h2{
+
+  .bogota-office h2 {
     font-size: 15px;
   }
-  
-  footer .container-fluid{
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 15px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 15px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
     flex-direction: column;
   }
-  
-  .fa-phone{
-  font-size: 15px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 15px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 15px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 15px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 15px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }
 
-@media screen and (min-width:992px) and (max-width:1200px){  
-  
-  form .form-control{
+@media screen and (min-width:992px) and (max-width:1200px) {
+
+  form .form-control {
     font-size: 15px;
   }
-  
-  form .btn{
+
+  form .btn {
     font-size: 15px;
   }
-  
-  .call-service{
-  text-align: left;
+
+  .call-service {
+    text-align: left;
   }
-  
-  .call-service .btn{
+
+  .call-service .btn {
     background-color: #82b633;
     color: #fff;
     font-size: 15px;
     font-weight: 600;
     text-transform: uppercase;
   }
-  
-  .call-service .fa-user{
-  font-size: 60px;
-  color: #82b633;
+
+  .call-service .fa-user {
+    font-size: 60px;
+    color: #82b633;
   }
-  
-  .call-service img{
+
+  .call-service img {
     width: 10%;
   }
-  
-  .call-service .service{
+
+  .call-service .service {
     color: #82b633;
     font-size: 20px;
   }
 
-  .service .fa-whatsapp{
+  .service .fa-whatsapp {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .oficine-title .row{
+
+  .oficine-title .row {
     text-align: center;
   }
-  
-  .oficine-title .fa-location-dot{
+
+  .oficine-title .fa-location-dot {
     font-size: 40px;
     color: #459839;
-    padding-bottom:2px; 
+    padding-bottom: 2px;
     border-bottom: 2px solid #459839;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
   }
-  
-  .oficine-title h1{
+
+  .oficine-title h1 {
     color: #82b633;
     text-transform: uppercase;
   }
 
-  .text{
+  .text {
     order: 2;
   }
 
-  .text2{
+  .text2 {
     order: 2;
   }
 
-  .text3{
+  .text3 {
     order: 2;
   }
-  
-  .principal-office h1{
+
+  .principal-office h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .principal-office h2{
+
+  .principal-office h2 {
     font-size: 20px;
   }
-  
-  .center-office h1{
+
+  .center-office h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .center-office h2{
+
+  .center-office h2 {
     font-size: 20px;
   }
-  
-  .bogota-office h1{
+
+  .bogota-office h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .bogota-office h2{
+
+  .bogota-office h2 {
     font-size: 20px;
   }
-  
-  footer .container-fluid{
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 20px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 20px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
   }
-  
-  .fa-phone{
-  font-size: 20px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 20px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 20px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 20px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }
 
-@media screen and (min-width:1200px) and (max-width:1400px){
-  .frm h2{
+@media screen and (min-width:1200px) and (max-width:1400px) {
+  .frm h2 {
     font-size: 30px;
   }
-  
-  .container .row p{
+
+  .container .row p {
     font-size: 20px;
     color: #4F4F4F;
   }
-  
-  form .form-control{
+
+  form .form-control {
     font-size: 15px;
   }
-  
-  form .btn{
+
+  form .btn {
     font-size: 15px;
   }
-  
-  .call-service{
-  text-align: left;
+
+  .call-service {
+    text-align: left;
   }
-  
-  .call-service .btn{
+
+  .call-service .btn {
     background-color: #82b633;
     color: #fff;
     font-size: 15px;
     font-weight: 600;
     text-transform: uppercase;
   }
-  
-  .call-service .fa-user{
-  font-size: 60px;
-  color: #82b633;
+
+  .call-service .fa-user {
+    font-size: 60px;
+    color: #82b633;
   }
-  
-  .call-service img{
+
+  .call-service img {
     width: 8%;
   }
-  
-  .call-service .service{
+
+  .call-service .service {
     color: #82b633;
     font-size: 20px;
   }
 
-  .service .fa-whatsapp{
+  .service .fa-whatsapp {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .oficine-title .row{
+
+  .oficine-title .row {
     text-align: center;
   }
-  
-  .oficine-title .fa-location-dot{
+
+  .oficine-title .fa-location-dot {
     font-size: 40px;
     color: #459839;
-    padding-bottom:2px; 
+    padding-bottom: 2px;
     border-bottom: 2px solid #459839;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
   }
-  
-  .oficine-title h1{
+
+  .oficine-title h1 {
     color: #82b633;
     text-transform: uppercase;
   }
 
-  .text{
+  .text {
     order: 2;
   }
 
-  .text2{
+  .text2 {
     order: 2;
   }
 
-  .text3{
+  .text3 {
     order: 2;
   }
-  
-  .principal-office h1{
+
+  .principal-office h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .principal-office h2{
+
+  .principal-office h2 {
     font-size: 20px;
   }
-  
-  .center-office h1{
+
+  .center-office h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .center-office h2{
+
+  .center-office h2 {
     font-size: 20px;
   }
-  
-  .bogota-office h1{
+
+  .bogota-office h1 {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .bogota-office h2{
+
+  .bogota-office h2 {
     font-size: 20px;
   }
-  
-  footer .container-fluid{
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 20px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 20px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
   }
-  
-  .fa-phone{
-  font-size: 20px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 20px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 20px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 20px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 20px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
-  
+
 }
 
-@media screen and (min-width:1400px){
-  .frm h2{
+@media screen and (min-width:1400px) {
+  .frm h2 {
     font-size: 35px;
   }
-  
-  .container .row p{
+
+  .container .row p {
     font-size: 25px;
     color: #4F4F4F;
   }
-  
-  form .form-control{
+
+  form .form-control {
     font-size: 20px;
   }
-  
-  form .btn{
+
+  form .btn {
     font-size: 25px;
   }
-  
-  .call-service{
-  text-align: left;
+
+  .call-service {
+    text-align: left;
   }
-  
-  .call-service .btn{
+
+  .call-service .btn {
     background-color: #82b633;
     color: #fff;
     font-size: 25px;
     font-weight: 600;
     text-transform: uppercase;
   }
-  
-  .call-service .fa-user{
-  font-size: 60px;
-  color: #82b633;
-  margin-left: 2%;
+
+  .call-service .fa-user {
+    font-size: 60px;
+    color: #82b633;
+    margin-left: 2%;
   }
-  
-  .call-service img{
+
+  .call-service img {
     width: 8%;
   }
-  
-  .call-service .service{
+
+  .call-service .service {
     color: #82b633;
     font-size: 25px;
   }
 
-  .service .fa-whatsapp{
+  .service .fa-whatsapp {
     color: #82b633;
     font-size: 30px;
   }
-  
-  .oficine-title .row{
+
+  .oficine-title .row {
     text-align: center;
   }
-  
-  .oficine-title .fa-location-dot{
+
+  .oficine-title .fa-location-dot {
     font-size: 40px;
     color: #459839;
-    padding-bottom:2px; 
+    padding-bottom: 2px;
     border-bottom: 2px solid #459839;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
   }
-  
-  .oficine-title h1{
+
+  .oficine-title h1 {
     color: #82b633;
     text-transform: uppercase;
   }
 
-  .text{
+  .text {
     order: 2;
   }
 
-  .text2{
+  .text2 {
     order: 2;
   }
 
-  .text3{
+  .text3 {
     order: 2;
   }
-  
-  .principal-office h1{
+
+  .principal-office h1 {
     color: #82b633;
     font-size: 35px;
   }
-  
-  .principal-office h2{
+
+  .principal-office h2 {
     font-size: 25px;
   }
-  
-  .center-office h1{
+
+  .center-office h1 {
     color: #82b633;
     font-size: 35px;
   }
-  
-  .center-office h2{
+
+  .center-office h2 {
     font-size: 25px;
   }
-  
-  .bogota-office h1{
+
+  .bogota-office h1 {
     color: #82b633;
     font-size: 35px;
   }
-  
-  .bogota-office h2{
+
+  .bogota-office h2 {
     font-size: 25px;
   }
-  
-  footer .container-fluid{
+
+  footer .container-fluid {
     border-top: 10px solid #82b633;
   }
-  
-  footer .row p{
+
+  footer .row p {
     font-size: 25px;
   }
-  
-  .menu-footer{
+
+  .menu-footer {
     list-style: none;
     padding: 0%;
     border-left: 2px solid #82b633;
     padding-left: 20%;
   }
-  
-  .menu-footer li{
+
+  .menu-footer li {
     margin-bottom: -5px;
   }
-  
-  .menu-footer li a{
+
+  .menu-footer li a {
     color: #4F4F4F;
     font-weight: 500;
     font-size: 25px;
     text-decoration: none;
   }
-  
-  .active{
-    color:#82b633 !important;
+
+  .active {
+    color: #82b633 !important;
   }
-  
-  .contact-way{
+
+  .contact-way {
     order: 0;
     text-align: left;
   }
-  
-  .fa-phone{
-  font-size: 25px;
-  margin-right: 2%;
-  color: #82b633;
+
+  .fa-phone {
+    font-size: 25px;
+    margin-right: 2%;
+    color: #82b633;
   }
-  
-  .fa-whatsapp{
+
+  .fa-whatsapp {
     margin-right: 3%;
     font-size: 25px;
     color: #82b633;
   }
-  
-  .fa-envelope{
+
+  .fa-envelope {
     margin-right: 3%;
     font-size: 25px;
     color: #82b633;
   }
-  
-  .row span{
+
+  .row span {
     color: #4F4F4F;
     font-size: 25px;
   }
-  
-  .row a{
+
+  .row a {
     font-size: 25px;
     color: #4F4F4F;
     text-decoration: none;
   }
-  
-  .background{
+
+  .background {
     padding-top: 2%;
   }
 }

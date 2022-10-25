@@ -234,6 +234,17 @@ footer .row p {
   font-size: 45px;
 }
 
+#realNavbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#searchNavBar {
+  margin-left: 2vw;
+}
+
 
 @media screen and (min-width:576px) and (max-width:768px) {
   .container-after {
@@ -1124,9 +1135,4 @@ footer .row p {
     padding-top: 2%;
   }
 
-}
-
-#nav-items-container {
-  height: 5vh;
-  background-color: #82b633;
 }

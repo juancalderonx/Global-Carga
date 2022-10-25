@@ -1,0 +1,1132 @@
+* p {
+  color: #4F4F4F;
+}
+
+* h1 {
+  color: #4F4F4F;
+}
+
+.carousel-control-prev {
+  width: 10%;
+}
+
+.carousel-control-next {
+  width: 10%;
+}
+
+.carousel-indicators {
+  bottom: -45px;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #82b633;
+}
+
+/*.text{
+  background-color: #00000014;
+  border-radius: 15px;
+}*/
+
+.text h1 {
+  font-size: 15px;
+}
+
+.text p {
+  font-size: 12px;
+}
+
+.container-after {
+  background-color: #00000014;
+  width: 85%;
+  height: 15%;
+  z-index: -1;
+  position: absolute;
+}
+
+.section {
+  text-align: center;
+}
+
+.section button {
+  background-color: #82b633;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.section button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.card-info img {
+  width: 55%;
+  background-color: #fff;
+  padding: 10px;
+  box-shadow: 0px 0px 5px#21212136;
+}
+
+.info {
+  margin: 5%;
+}
+
+.cities .row {
+  margin-right: 0%;
+  justify-content: start;
+  align-items: flex-end;
+}
+
+.col-2 {
+  width: 12%;
+}
+
+.number h1 {
+  color: #4F4F4F;
+  margin-bottom: 0%;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.texto h2 {
+  color: #82b633;
+  margin-bottom: 2%;
+  font-size: 20px;
+}
+
+.video-container {
+  position: relative;
+}
+
+.fa-play {
+  position: absolute;
+}
+
+/*.contenedor{
+  width: 100%; 
+  margin-bottom: 5%;
+  position: relative;
+}
+
+.contenedor img{
+  width:100%;
+}
+
+.fa-play{
+  font-size: 50px;
+  position: absolute;
+  top: 35%;
+  left: 45%;
+  color: white;
+  cursor: pointer;
+}
+
+.video-player{
+  width: 100%;
+  position: absolute;
+  top: 174%;
+  display: none;
+}
+
+.video-player .fa-circle-xmark{
+  position: absolute;
+  top: 5%;
+  left: 90%;
+  cursor: pointer;
+  font-size: 15px;
+  color: white;
+}*/
+
+footer .container-fluid {
+  border-top: 10px solid #82b633;
+}
+
+footer .container-fluid .row {
+  justify-content: center;
+  align-items: center;
+}
+
+footer .logo {
+  text-align: center;
+}
+
+footer .row p {
+  font-size: 12px;
+}
+
+.menu-footer {
+  list-style: none;
+  padding: 0%;
+  border-left: 2px solid #82b633;
+  padding-left: 20%;
+}
+
+.menu-footer li {
+  margin-bottom: -5px;
+}
+
+.menu-footer li a {
+  color: #4F4F4F;
+  font-weight: 500;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.active {
+  color: #82b633 !important;
+}
+
+.info-social {
+  text-align: center;
+}
+
+.info-social p {
+  color: #4F4F4F;
+  margin-bottom: 0.4rem;
+}
+
+.info-social p a {
+  text-decoration: none;
+  color: #4F4F4F;
+}
+
+.fa-phone {
+  color: #82b633;
+}
+
+.fa-whatsapp {
+  color: #82b633;
+}
+
+.fa-envelope {
+  color: #82b633;
+}
+
+.btn:hover {
+  background-color: #82b633;
+  color: #fff;
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  border-radius: 35px;
+  font-size: 24px;
+}
+
+.whatsapp-button {
+  position: fixed;
+  top: 70%;
+  right: .5%;
+  z-index: 50;
+}
+
+.whatsapp-button button {
+  border: none;
+  box-shadow: 1px 1px 5px rgba(60, 60, 60, 0.533);
+}
+
+.whatsapp-button button .fa-whatsapp {
+  font-size: 40px;
+}
+
+.whatsapp-button button .fa-whatsapp:hover {
+  font-size: 45px;
+}
+
+
+@media screen and (min-width:576px) and (max-width:768px) {
+  .container-after {
+    background-color: #00000014;
+    width: 100%;
+    height: 25%;
+  }
+
+  .section button {
+    font-size: 15px;
+  }
+
+  .text h1 {
+    font-size: 20px;
+  }
+
+  .text p {
+    font-size: 15px;
+  }
+
+  .card-info img {
+    width: 50%;
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 3%;
+  }
+
+  .info {
+    margin-top: 10%;
+  }
+
+  .cities .row {
+    margin-right: 0%;
+    justify-content: start;
+    align-items: flex-end;
+  }
+
+  .number h1 {
+    color: #4F4F4F;
+    margin-bottom: 0%;
+    font-weight: bold;
+    font-size: 50px;
+  }
+
+  .texto {
+    width: 28%;
+  }
+
+  .texto h2 {
+    color: #82b633;
+    margin-bottom: 2%;
+    font-size: 35px;
+  }
+
+  .contenedor {
+    width: 100%;
+    margin-bottom: 5%;
+    position: relative;
+  }
+
+  .contenedor img {
+    width: 100%;
+  }
+
+
+  .video-player {
+    width: 100%;
+    position: absolute;
+    top: 280%;
+    display: none;
+  }
+
+  .video-player .fa-circle-xmark {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    cursor: pointer;
+    font-size: 25px;
+    color: white;
+  }
+
+  footer .container-fluid {
+    border-top: 10px solid #82b633;
+  }
+
+  footer .row p {
+    font-size: 15px;
+  }
+
+  .menu-footer {
+    list-style: none;
+    padding: 0%;
+    border-left: 2px solid #82b633;
+    padding-left: 20%;
+  }
+
+  .menu-footer li {
+    margin-bottom: -5px;
+  }
+
+  .menu-footer li a {
+    color: #4F4F4F;
+    font-weight: 500;
+    font-size: 15px;
+    text-decoration: none;
+  }
+
+  .active {
+    color: #82b633 !important;
+  }
+
+  .contact-way {
+    order: 3;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .fa-phone {
+    font-size: 15px;
+    margin-right: 2%;
+    color: #82b633;
+  }
+
+  .fa-whatsapp {
+    margin-right: 3%;
+    font-size: 15px;
+    color: #82b633;
+  }
+
+  .fa-envelope {
+    margin-right: 3%;
+    font-size: 15px;
+    color: #82b633;
+  }
+
+  .row span {
+    color: #4F4F4F;
+    font-size: 15px;
+  }
+
+  .row a {
+    font-size: 15px;
+    color: #4F4F4F;
+    text-decoration: none;
+  }
+
+  .background {
+    padding-top: 2%;
+  }
+
+}
+
+@media screen and (min-width:768px) and (max-width:992px) {
+  .container-after {
+    width: 96%;
+    height: 45%;
+    border-bottom-left-radius: 150px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+
+  .section {
+    text-align: left;
+    margin-left: 5%;
+  }
+
+  .section button {
+    font-size: 15px;
+  }
+
+  .text h1 {
+    font-size: 25px;
+  }
+
+  .text p {
+    font-size: 15px;
+  }
+
+  .card-info img {
+    width: 40%;
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 3%;
+  }
+
+  #info1 {
+    order: 2;
+  }
+
+  #after1 {
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 150px;
+  }
+
+  #info3 {
+    order: 2;
+  }
+
+  .info {
+    margin-top: 10%;
+  }
+
+  .cities .row {
+    margin-right: 0%;
+    justify-content: start;
+    align-items: flex-end;
+  }
+
+  .col-2 {
+    width: 10%;
+  }
+
+  .number h1 {
+    color: #4F4F4F;
+    margin-bottom: 0%;
+    font-weight: bold;
+    font-size: 50px;
+  }
+
+  .texto {
+    width: 15%;
+  }
+
+  .texto h2 {
+    color: #82b633;
+    margin-bottom: 4%;
+    font-size: 25px;
+  }
+
+  .truck img {
+    width: 50%;
+    margin-bottom: 1%;
+  }
+
+  .contenedor {
+    width: 100%;
+    margin-bottom: 5%;
+    position: relative;
+  }
+
+  .contenedor img {
+    width: 100%;
+  }
+
+  .video-player {
+    width: 100%;
+    position: absolute;
+    top: 250%;
+    display: none;
+  }
+
+  .video-player .fa-circle-xmark {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+  }
+
+  footer .container-fluid {
+    border-top: 10px solid #82b633;
+  }
+
+  footer .row p {
+    font-size: 15px;
+  }
+
+  .menu-footer {
+    list-style: none;
+    padding: 0%;
+    border-left: 2px solid #82b633;
+    padding-left: 20%;
+  }
+
+  .menu-footer li {
+    margin-bottom: -5px;
+  }
+
+  .menu-footer li a {
+    color: #4F4F4F;
+    font-weight: 500;
+    font-size: 15px;
+    text-decoration: none;
+  }
+
+  .active {
+    color: #82b633 !important;
+  }
+
+  .contact-way {
+    order: 0;
+    text-align: left;
+    flex-direction: column;
+  }
+
+  .fa-phone {
+    font-size: 15px;
+    margin-right: 2%;
+    color: #82b633;
+  }
+
+  .fa-whatsapp {
+    margin-right: 3%;
+    font-size: 15px;
+    color: #82b633;
+  }
+
+  .fa-envelope {
+    margin-right: 3%;
+    font-size: 15px;
+    color: #82b633;
+  }
+
+  .row span {
+    color: #4F4F4F;
+    font-size: 15px;
+  }
+
+  .row a {
+    font-size: 15px;
+    color: #4F4F4F;
+    text-decoration: none;
+  }
+
+  .background {
+    padding-top: 2%;
+  }
+
+}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+  .container-after {
+    width: 96%;
+    height: 45%;
+    border-bottom-left-radius: 150px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+
+  .section {
+    text-align: left;
+  }
+
+  .section button {
+    font-size: 20px;
+  }
+
+  .text h1 {
+    font-size: 25px;
+  }
+
+  .text p {
+    font-size: 20px;
+  }
+
+  .card-info img {
+    width: 40%;
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 3%;
+  }
+
+  #info1 {
+    order: 2;
+  }
+
+  #after1 {
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 150px;
+  }
+
+  #info3 {
+    order: 2;
+  }
+
+  .info {
+    margin-top: 10%;
+  }
+
+  .cities .row {
+    margin-right: 0%;
+    justify-content: start;
+    align-items: flex-end;
+  }
+
+  .cities .row .number {
+    width: 9%;
+  }
+
+  .number h1 {
+    color: #4F4F4F;
+    margin-bottom: 0%;
+    font-weight: bold;
+    font-size: 70px;
+  }
+
+  .texto {
+    width: 25%;
+  }
+
+  .texto h2 {
+    color: #82b633;
+    margin-bottom: 4%;
+    font-size: 45px;
+  }
+
+  .truck img {
+    margin-bottom: 1%;
+  }
+
+  .contenedor {
+    width: 100%;
+    margin-bottom: 5%;
+    position: relative;
+  }
+
+  .contenedor img {
+    width: 100%;
+  }
+
+  .video-player {
+    width: 100%;
+    position: absolute;
+    top: 250%;
+    display: none;
+  }
+
+  .video-player .fa-circle-xmark {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+  }
+
+  footer .container-fluid {
+    border-top: 10px solid #82b633;
+  }
+
+  footer .row p {
+    font-size: 20px;
+  }
+
+  .menu-footer {
+    list-style: none;
+    padding: 0%;
+    border-left: 2px solid #82b633;
+    padding-left: 20%;
+  }
+
+  .menu-footer li {
+    margin-bottom: -5px;
+  }
+
+  .menu-footer li a {
+    color: #4F4F4F;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+  }
+
+  .active {
+    color: #82b633 !important;
+  }
+
+  .contact-way {
+    order: 0;
+    text-align: left;
+  }
+
+  .fa-phone {
+    font-size: 20px;
+    margin-right: 2%;
+    color: #82b633;
+  }
+
+  .fa-whatsapp {
+    margin-right: 3%;
+    font-size: 20px;
+    color: #82b633;
+  }
+
+  .fa-envelope {
+    margin-right: 3%;
+    font-size: 20px;
+    color: #82b633;
+  }
+
+  .row span {
+    color: #4F4F4F;
+    font-size: 20px;
+  }
+
+  .row a {
+    font-size: 20px;
+    color: #4F4F4F;
+    text-decoration: none;
+  }
+
+  .background {
+    padding-top: 2%;
+  }
+
+
+}
+
+@media screen and (min-width:1200px) and (max-width:1400px) {
+  .container-after {
+    width: 96%;
+    height: 45%;
+    border-bottom-left-radius: 150px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+
+  .section {
+    text-align: left;
+  }
+
+  .section button {
+    font-size: 20px;
+  }
+
+  .text h1 {
+    font-size: 25px;
+  }
+
+  .text p {
+    font-size: 20px;
+  }
+
+  .card-info img {
+    width: 40%;
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 3%;
+  }
+
+  #info1 {
+    order: 2;
+  }
+
+  #after1 {
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 150px;
+  }
+
+  #info3 {
+    order: 2;
+  }
+
+  .info {
+    margin-top: 10%;
+  }
+
+  .cities .row {
+    margin-right: 0%;
+    justify-content: start;
+    align-items: flex-end;
+  }
+
+  .cities .row .number {
+    width: 9%;
+  }
+
+  .number h1 {
+    color: #4F4F4F;
+    margin-bottom: 0%;
+    font-weight: bold;
+    font-size: 70px;
+  }
+
+  .texto {
+    width: 25%;
+  }
+
+  .texto h2 {
+    color: #82b633;
+    margin-bottom: 4%;
+    font-size: 45px;
+  }
+
+  .truck img {
+    margin-bottom: 1%;
+  }
+
+  .contenedor {
+    width: 100%;
+    margin-bottom: 5%;
+    position: relative;
+  }
+
+  .contenedor img {
+    width: 100%;
+  }
+
+  .video-player {
+    width: 100%;
+    position: absolute;
+    top: 250%;
+    display: none;
+  }
+
+  .video-player .fa-circle-xmark {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+  }
+
+  footer .container-fluid {
+    border-top: 10px solid #82b633;
+  }
+
+  footer .row p {
+    font-size: 20px;
+  }
+
+  .menu-footer {
+    list-style: none;
+    padding: 0%;
+    border-left: 2px solid #82b633;
+    padding-left: 20%;
+  }
+
+  .menu-footer li {
+    margin-bottom: -5px;
+  }
+
+  .menu-footer li a {
+    color: #4F4F4F;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+  }
+
+  .active {
+    color: #82b633 !important;
+  }
+
+  .contact-way {
+    order: 0;
+    text-align: left;
+  }
+
+  .fa-phone {
+    font-size: 20px;
+    margin-right: 2%;
+    color: #82b633;
+  }
+
+  .fa-whatsapp {
+    margin-right: 3%;
+    font-size: 20px;
+    color: #82b633;
+  }
+
+  .fa-envelope {
+    margin-right: 3%;
+    font-size: 20px;
+    color: #82b633;
+  }
+
+  .row span {
+    color: #4F4F4F;
+    font-size: 20px;
+  }
+
+  .row a {
+    font-size: 20px;
+    color: #4F4F4F;
+    text-decoration: none;
+  }
+
+  .background {
+    padding-top: 2%;
+  }
+
+
+}
+
+@media screen and (min-width:1400px) {
+
+  .carousel-control-prev {
+    width: 10%;
+  }
+
+  .carousel-control-next {
+    width: 10%;
+  }
+
+  .carousel-indicators [data-bs-target] {
+    width: 35px;
+    height: 7px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+
+  .container-after {
+    width: 85%;
+    height: 35%;
+    border-bottom-left-radius: 150px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+  }
+
+  .section {
+    text-align: left;
+  }
+
+  .section button {
+    font-size: 25px;
+  }
+
+  .text h1 {
+    font-size: 30px;
+  }
+
+  .text p {
+    width: 95%;
+    font-size: 25px;
+  }
+
+  .card-info img {
+    width: 25%;
+    background-color: #fff;
+    padding: 10px;
+  }
+
+  #info1 {
+    order: 2;
+  }
+
+  #after1 {
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 150px;
+  }
+
+  #info3 {
+    order: 2;
+  }
+
+  .info {
+    margin-top: 5%;
+  }
+
+  .cities .row {
+    margin-left: 5%;
+    justify-content: start;
+    align-items: flex-end;
+  }
+
+  .cities .row .number {
+    width: 7%;
+  }
+
+  .number h1 {
+    color: #4F4F4F;
+    margin-bottom: 0%;
+    font-weight: bold;
+    font-size: 70px;
+  }
+
+  .texto {
+    width: 15%;
+  }
+
+  .texto h2 {
+    color: #82b633;
+    margin-bottom: 4%;
+    font-size: 45px;
+  }
+
+  .truck img {
+    margin-bottom: 1%;
+  }
+
+  .contenedor {
+    width: 100%;
+    margin-bottom: 5%;
+    position: relative;
+  }
+
+  .contenedor img {
+    width: 100%;
+  }
+
+  .video-player {
+    width: 100%;
+    position: absolute;
+    top: 250%;
+    display: none;
+  }
+
+  .video-player .fa-circle-xmark {
+    position: absolute;
+    top: 5%;
+    left: 90%;
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+  }
+
+  footer .container-fluid {
+    border-top: 10px solid #82b633;
+  }
+
+  footer .row p {
+    font-size: 25px;
+  }
+
+  .menu-footer {
+    list-style: none;
+    padding: 0%;
+    border-left: 2px solid #82b633;
+    padding-left: 20%;
+  }
+
+  .menu-footer li {
+    margin-bottom: -5px;
+  }
+
+  .menu-footer li a {
+    color: #4F4F4F;
+    font-weight: 500;
+    font-size: 25px;
+    text-decoration: none;
+  }
+
+  .active {
+    color: #82b633 !important;
+  }
+
+  .contact-way {
+    order: 0;
+    text-align: left;
+  }
+
+  .fa-phone {
+    font-size: 25px;
+    margin-right: 2%;
+    color: #82b633;
+  }
+
+  .fa-whatsapp {
+    margin-right: 3%;
+    font-size: 25px;
+    color: #82b633;
+  }
+
+  .fa-envelope {
+    margin-right: 3%;
+    font-size: 25px;
+    color: #82b633;
+  }
+
+  .row span {
+    color: #4F4F4F;
+    font-size: 25px;
+  }
+
+  .row a {
+    font-size: 25px;
+    color: #4F4F4F;
+    text-decoration: none;
+  }
+
+  .background {
+    padding-top: 2%;
+  }
+
+}
+
+#nav-items-container {
+  height: 5vh;
+  background-color: #82b633;
+}

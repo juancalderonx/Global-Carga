@@ -1,0 +1,153 @@
+.navegacion{
+  border-bottom:10px solid #82b633;
+}
+
+.fa-bars {
+  color: #fff !important;
+}
+
+.nav-item a{
+  text-align: center;
+  letter-spacing: 0px;
+  color: #4F4F4F;
+  opacity: 1;
+  font-size: 12px;
+}
+
+.nav-item{
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.navbar-toggler{
+  width: 40px;
+  height: 30px;
+  background-color: #82B633;
+}
+
+.navbar-toggler:hover{
+  width: 40px;
+  height: 30px;
+}
+
+.navbar-toggler-icon{
+  color: aliceblue;
+  width: 25px;
+  height: 20px;
+  background-position: 0%;
+  position: relative;
+  left: -4px;
+  top: -2px;
+}
+
+.navbar-toggler:focus{
+  box-shadow: none;
+}
+
+.form-control{
+  background-color: rgb(255, 255, 255);
+}
+
+.botones{
+  align-self: center;
+}
+
+.botones button{
+  margin-bottom: 5%;
+  font-size: 10px;
+}
+
+
+.botones button a{
+  text-decoration: none;
+  color: #4F4F4F;
+}
+
+
+.fa-user{
+  color: #82B633;
+}
+
+.hamburguer{
+  align-self: center;
+}
+
+.buttons{
+  align-self: center;
+}
+
+.logo{
+  width: 100%;
+}
+
+.logocol{
+  align-self: center;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl{
+  justify-content: center;
+}
+
+@media screen and (min-width:576px) and (max-width:768px){
+  .botones button{
+    margin-bottom: 5%;
+    font-size: 12px;
+  }
+
+  .nav-item a{
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+  .botones button{
+    margin-bottom: 5%;
+    font-size: 15px;
+  }
+
+  .nav-item a{
+    font-size: 15px;
+  }
+
+  .col-md-7{
+    width: 50%;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1200px){
+  .nav-item a{
+    font-size: 17px;
+  }
+
+}
+
+@media screen and (min-width:1200px) and (max-width:1400px){
+  .nav-item a{
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width:1400px){
+  .nav-item a{
+    font-size: 20px;
+  }
+
+  
+
+  .navegacion{
+    padding-bottom: 10px;
+    border-bottom: 20px solid #82B633;
+  }
+}
+
+@media screen and (max-width: 991px){
+
+  .nav-item{
+    border-bottom: 2px solid #82B633;
+  }
+
+  .about{
+    border-bottom: none;
+  }
+
+}

@@ -51,9 +51,13 @@ footer .row p {
 
 .active {
   color: #fff !important;
-  text-decoration: none;
+  text-decoration: none !important;
   border-bottom: 2px solid #fff;
   font-weight: 600;
+}
+
+.active-footer {
+  color: #459839 !important;
 }
 
 .info-social {
